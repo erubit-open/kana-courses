@@ -1,0 +1,13 @@
+{
+  "id": "b888c054e8ed",
+  "title": "@ref ref_advakana_title",
+  "description": "@ref ref_advakana_description",
+  "lessons": [
+    "advakana_h_palatalization",
+    "advakana_h_voiced",
+    "advakana_h_doubling",
+    "advakana_k_palatalization",
+    "advakana_k_voiced",
+    "advakana_k_doubling"
+  ]
+}

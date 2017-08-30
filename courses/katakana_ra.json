@@ -1,0 +1,25 @@
+{
+  "id": "78a082b17a76444fb85766f03a4a800a",
+  "title": "@ref ref_katakana_ra_title",
+  "type": "Set",
+  "set": [
+    { "i": 0, "c": "ラ", "m": "ra" },
+    { "i": 1, "c": "リ", "m": "ri" },
+    { "i": 2, "c": "ル", "m": "ru" },
+    { "i": 3, "c": "レ", "m": "re" },
+    { "i": 4, "c": "ロ", "m": "ro" }
+  ],
+  "variants": [
+    "a",   "i",   "u",   "e",  "o",
+    "ka", "ki",  "ku",  "ke", "ko",
+    "sa", "shi", "su",  "se", "so",
+    "ta", "chi", "tsu", "te", "to",
+    "na", "ni",  "nu",  "ne", "no",
+    "ha", "hi",  "fu",  "he", "ho",
+    "ma", "mi",  "mu",  "me", "mo",
+    "ya",        "yu",        "yo",
+    "ra", "ri",  "ru",  "re", "ro",
+    "wa",                     "wo",
+    "n"
+  ]
+}

@@ -1,0 +1,23 @@
+{
+  "id": "009dd483c06d",
+  "title": "@ref ref_advakana_h_doubling_title",
+  "type": "Set",
+  "set": [
+    { "i": 0, "c": "かこ",   "m": "kako" },
+    { "i": 1, "c": "かっこ",  "m": "kakko" },
+    { "i": 2, "c": "うた",   "m": "uta" },
+    { "i": 3, "c": "うった",  "m": "utta" },
+    { "i": 4, "c": "きて",   "m": "kite" },
+    { "i": 5, "c": "きって",  "m": "kitte" },
+    { "i": 6, "c": "いたい",  "m": "itai" },
+    { "i": 7, "c": "いったい", "m": "ittai" },
+    { "i": 8, "c": "よっか",  "m": "yokka" },
+    { "i": 9, "c": "すっかり", "m": "sukkari" }
+  ],
+  "variants": [
+    "kako", "kakko", "uta",
+    "utta", "kite", "kitte",
+    "itai", "ittai", "yokka",
+    "sukkari"
+  ]
+}

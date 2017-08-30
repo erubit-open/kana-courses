@@ -1,0 +1,25 @@
+{
+  "id": "b4cdee1f0fd94f76a6b3df5d76a64cac",
+  "title": "@ref ref_hiragana_ka_title",
+  "type": "Set",
+  "set": [
+    { "i": 0, "c": "か", "m": "ka" },
+    { "i": 1, "c": "き", "m": "ki" },
+    { "i": 2, "c": "く", "m": "ku" },
+    { "i": 3, "c": "け", "m": "ke" },
+    { "i": 4, "c": "こ", "m": "ko" }
+  ],
+  "variants": [
+    "a",   "i",   "u",   "e",  "o",
+    "ka", "ki",  "ku",  "ke", "ko",
+    "sa", "shi", "su",  "se", "so",
+    "ta", "chi", "tsu", "te", "to",
+    "na", "ni",  "nu",  "ne", "no",
+    "ha", "hi",  "fu",  "he", "ho",
+    "ma", "mi",  "mu",  "me", "mo",
+    "ya",        "yu",        "yo",
+    "ra", "ri",  "ru",  "re", "ro",
+    "wa",                     "wo",
+    "n"
+  ]
+}

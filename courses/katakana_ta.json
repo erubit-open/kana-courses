@@ -1,0 +1,25 @@
+{
+  "id": "dc80a43652ae46f48d5bd48dad3955f1",
+  "title": "@ref ref_katakana_ta_title",
+  "type": "Set",
+  "set": [
+    { "i": 0, "c": "タ", "m": "ta" },
+    { "i": 1, "c": "チ", "m": "chi" },
+    { "i": 2, "c": "ツ", "m": "tsu" },
+    { "i": 3, "c": "テ", "m": "te" },
+    { "i": 4, "c": "ト", "m": "to" }
+  ],
+  "variants": [
+    "a",   "i",   "u",   "e",  "o",
+    "ka", "ki",  "ku",  "ke", "ko",
+    "sa", "shi", "su",  "se", "so",
+    "ta", "chi", "tsu", "te", "to",
+    "na", "ni",  "nu",  "ne", "no",
+    "ha", "hi",  "fu",  "he", "ho",
+    "ma", "mi",  "mu",  "me", "mo",
+    "ya",        "yu",        "yo",
+    "ra", "ri",  "ru",  "re", "ro",
+    "wa",                     "wo",
+    "n"
+  ]
+}

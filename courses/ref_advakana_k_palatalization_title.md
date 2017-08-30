@@ -1,0 +1,1 @@
+Vowel palatalization in Katakana

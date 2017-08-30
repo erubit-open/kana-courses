@@ -1,0 +1,5 @@
+[
+  { "active": true,  "name": "hiragana" },
+  { "active": true,  "name": "katakana" },
+  { "active": false, "name": "advakana" }
+]

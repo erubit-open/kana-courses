@@ -1,0 +1,21 @@
+{
+  "id": "394675ff3981",
+  "title": "@ref ref_advakana_h_palatalization_title",
+  "type": "Set",
+  "set": [
+    { "i": 0, "c": "きゃ", "m": "kya" },
+    { "i": 1, "c": "きゅ", "m": "kyu" },
+    { "i": 2, "c": "しゅ", "m": "shu" },
+    { "i": 3, "c": "しょ", "m": "sho" },
+    { "i": 4, "c": "ちゃ", "m": "cha" },
+    { "i": 5, "c": "ちょ", "m": "cho" },
+    { "i": 6, "c": "にゃ", "m": "nya" },
+    { "i": 7, "c": "にゅ", "m": "nyu" },
+    { "i": 8, "c": "にょ", "m": "nyo" }
+  ],
+  "variants": [
+    "kya", "kyu", "shu",
+    "sho", "cha", "cho",
+    "nya", "nyu", "nyo"
+  ]
+}

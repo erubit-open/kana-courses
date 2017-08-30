@@ -1,0 +1,23 @@
+{
+  "id": "c04afac0d25745cc9f4fd50edeb782d4",
+  "title": "@ref ref_katakana_ya_title",
+  "type": "Set",
+  "set": [
+    { "i": 0, "c": "ヤ", "m": "ya" },
+    { "i": 1, "c": "ユ", "m": "yu" },
+    { "i": 2, "c": "ヨ", "m": "yo" }
+  ],
+  "variants": [
+    "a",   "i",   "u",   "e",  "o",
+    "ka", "ki",  "ku",  "ke", "ko",
+    "sa", "shi", "su",  "se", "so",
+    "ta", "chi", "tsu", "te", "to",
+    "na", "ni",  "nu",  "ne", "no",
+    "ha", "hi",  "fu",  "he", "ho",
+    "ma", "mi",  "mu",  "me", "mo",
+    "ya",        "yu",        "yo",
+    "ra", "ri",  "ru",  "re", "ro",
+    "wa",                     "wo",
+    "n"
+  ]
+}

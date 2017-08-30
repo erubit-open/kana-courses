@@ -1,0 +1,23 @@
+{
+  "id": "63a0898be863",
+  "title": "@ref ref_advakana_k_doubling_title",
+  "type": "Set",
+  "set": [
+    { "i": 0, "c": "カコ",　 　"m": "kako" },
+    { "i": 1, "c": "カッコ", 　"m": "kakko" },
+    { "i": 2, "c": "ウタ",　 　"m": "uta" },
+    { "i": 3, "c": "ウッタ", 　"m": "utta" },
+    { "i": 4, "c": "キテ", 　　"m": "kite" },
+    { "i": 5, "c": "キッテ", 　"m": "kitte" },
+    { "i": 6, "c": "イタイ", 　"m": "itai" },
+    { "i": 7, "c": "イッタイ", "m": "ittai" },
+    { "i": 8, "c": "ヨッカ",　 "m": "yokka" },
+    { "i": 9, "c": "スッカリ", "m": "sukkari" }
+  ],
+  "variants": [
+    "kako", "kakko", "uta",
+    "utta", "kite", "kitte",
+    "itai", "ittai", "yokka",
+    "sukkari"
+  ]
+}

@@ -1,0 +1,18 @@
+{
+  "id": "52ca6b7714de456393db599b08ad1c95",
+  "title": "@ref ref_hiragana_title",
+  "description": "@ref ref_hiragana_description",
+  "lessons": [
+    "hiragana_welcome",
+    "hiragana_a",
+    "hiragana_ka",
+    "hiragana_sa",
+    "hiragana_ta",
+    "hiragana_na",
+    "hiragana_ha",
+    "hiragana_ma",
+    "hiragana_ya",
+    "hiragana_ra",
+    "hiragana_nwa"
+  ]
+}

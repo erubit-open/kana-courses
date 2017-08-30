@@ -1,0 +1,18 @@
+{
+  "id": "217bd077f190477fb18a6a8331b451f1",
+  "title": "@ref ref_katakana_title",
+  "description": "@ref ref_katakana_description",
+  "lessons": [
+    "katakana_welcome",
+    "katakana_a",
+    "katakana_ka",
+    "katakana_sa",
+    "katakana_ta",
+    "katakana_na",
+    "katakana_ha",
+    "katakana_ma",
+    "katakana_ya",
+    "katakana_ra",
+    "katakana_nwa"
+  ]
+}
