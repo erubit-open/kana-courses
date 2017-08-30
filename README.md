@@ -9,14 +9,7 @@ Please take a look at the educational app at Google Play
 [https://play.google.com/store/apps/details?id=com.erubit.kana](https://play.google.com/store/apps/details?id=com.erubit.kana).
 
 #### Screenshots
-<img src="screenshots/ss1.png" height="240">
-<img src="screenshots/ss2.png" height="240">
-<img src="screenshots/ss3.png" height="240">
-<img src="screenshots/ss4.png" height="240">
-<img src="screenshots/ss5.png" height="240">
-<img src="screenshots/ss6.png" height="240">
-<img src="screenshots/ss7.png" height="240">
-<img src="screenshots/ss8.png" height="240">
+<img src="screenshots/ss1.png" height="240"><img src="screenshots/ss2.png" height="240"><img src="screenshots/ss3.png" height="240"><img src="screenshots/ss4.png" height="240"><img src="screenshots/ss5.png" height="240"><img src="screenshots/ss6.png" height="240"><img src="screenshots/ss7.png" height="240"><img src="screenshots/ss8.png" height="240">
 
 #### Details
 ##### Entry point
