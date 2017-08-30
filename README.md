@@ -9,7 +9,14 @@ Please take a look at the educational app at Google Play
 [https://play.google.com/store/apps/details?id=com.erubit.kana](https://play.google.com/store/apps/details?id=com.erubit.kana).
 
 #### Screenshots
-![Alt-текст](адрес://ссылки.здесь "Заголовок изображения")
+<img src="screenshots/ss1.png" height="240">
+<img src="screenshots/ss2.png" height="240">
+<img src="screenshots/ss3.png" height="240">
+<img src="screenshots/ss4.png" height="240">
+<img src="screenshots/ss5.png" height="240">
+<img src="screenshots/ss6.png" height="240">
+<img src="screenshots/ss7.png" height="240">
+<img src="screenshots/ss8.png" height="240">
 
 #### Details
 ##### Entry point
@@ -48,18 +55,21 @@ References are used for [multilingual support][#multilingual].
   "id": "36eb7c0",
   "title": "@ref ref_hiragana_a_title",
   "type": "Set",
-  "set": [                              # characters to learn
-    { "i": 0, "c": "あ", "m": "a" },    <-- translations in character description is not supported
+  "set": [
+    { "i": 0, "c": "あ", "m": "a" },
     { "i": 1, "c": "い", "m": "i" },
     { "i": 2, "c": "う", "m": "u" },
     { "i": 3, "c": "え", "m": "e" },
     { "i": 4, "c": "お", "m": "o" }
   ],
   "variants": [
-    "a",   "i",   "u",   "e",  "o"      # answer variants
+    "a",   "i",   "u",   "e",  "o"
   ]
 }
 ```
+* `"type"` should be `"Set"`
+* `"set"` is a list of characters to learn
+* `"variants"` is a list of possible wrong answers
 
 ##### <a name="multilingual"></a>Multilingual support
 Text fields, like titles might be translatable for many languages.
